@@ -1,10 +1,15 @@
-# MyClaw Bench 🦞
+<div align="center">
 
-**AI 编程 Agent 的权威基准测试。源自真实使用数据。**
+# **MyClaw Bench** 🦞
+
+### **AI 编程 Agent 的权威基准测试**
+**源自真实使用数据。**
 
 [English](README.md) | [中文](README.zh-CN.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [Italiano](README.it.md) | [Español](README.es.md)
 
 [![Powered by MyClaw.ai](https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue)](https://myclaw.ai)
+
+</div>
 
 ---
 
