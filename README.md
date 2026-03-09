@@ -2,7 +2,7 @@
 
 # **MyClaw Bench** 🦞
 
-### **The definitive benchmark for AI agents on OpenClaw.**
+### **The definitive benchmark for which LLM runs OpenClaw best.**
 **Built from real-world usage data.**
 
 [English](README.md) | [中文](README.zh-CN.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [Italiano](README.it.md) | [Español](README.es.md)
