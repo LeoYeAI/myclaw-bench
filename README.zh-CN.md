@@ -129,4 +129,4 @@ MIT
 
 ---
 
-*由 [MyClaw.ai](https://myclaw.ai) 构建——源自 3,000+ 真实 Agent 会话，而非合成测试。*
+*由 [MyClaw.ai](https://myclaw.ai) 构建——源自 10,000+ 真实 Agent 会话，而非合成测试。*

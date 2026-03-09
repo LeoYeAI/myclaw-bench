@@ -213,4 +213,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built by [MyClaw.ai](https://myclaw.ai) — from 3,000+ real agent sessions, not synthetic tests.*
+*Built by [MyClaw.ai](https://myclaw.ai) — from 10,000+ real agent sessions, not synthetic tests.*
